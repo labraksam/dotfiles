@@ -1,4 +1,4 @@
-# Profile Assesment
+# Profile assignment
 
 For me as a beginner it was a little hard to find out what I was doing, but after some time I got some result.
 I used a lot of Google to find things out. But with that i learned a lot of this course! :) 
