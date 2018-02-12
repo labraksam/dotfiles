@@ -1,11 +1,16 @@
 
-#my aliases
+####### my aliases
+
 alias backend='cd ~Sam/Backend'
 alias ll="ls -lhA"
 
-#my prompt name
+
+#######my prompt name
+
 PS1="labraksam 🥐  \w"
 
-#my welcome text
+
+#######my welcome text
+
 echo "Welcome labraksam"
 
